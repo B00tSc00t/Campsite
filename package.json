@@ -1,7 +1,7 @@
 {
-  "name": "nucampsite",
+  "name": "summercampsite",
   "version": "1.0.0",
-  "description": "Website for NuCamp",
+  "description": "Website for SummerCamp",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && npm run imagemin && npm run copyfonts && npm run usemin",
